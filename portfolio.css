@@ -1,0 +1,106 @@
+.background {
+    background-image: url("https://res.cloudinary.com/dkh9fvgft/image/upload/v1738329905/background_portfolio_dixmqb.avif");
+    background-size: cover;
+    height: 100vh;
+    padding: 100px;
+}
+
+.image {
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    margin: 35px;
+    margin-top: 50px;
+    border-radius: 125px;
+}
+
+.heading {
+    color: #1d838c;
+    font-size: 38px;
+    font-family: "Lobster";
+}
+
+.name {
+    color: #360cb3;
+    font-size: 40px;
+    font-family: "Lobster";
+}
+
+.about-me-background {
+    background-color: #88c0eb;
+    padding: 45px;
+    height: 75vh;
+}
+
+.about-me-heading {
+    color: #6624d1;
+    font-size: 50px;
+    font-family: "Roboto";
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 40px;
+}
+
+.about-me-card {
+    background-color: #92d6ce;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.about-me-text {
+    color: #3a0d54;
+    font-size: 25px;
+    font-family: "Bree Serif";
+}
+
+.my-project-background {
+    background-color: #5cd1d1;
+    padding: 45px;
+    height: 70vh;
+}
+
+.my-project-heading {
+    color: #87166b;
+    font-size: 50px;
+    font-family: "Caveat";
+}
+
+.my-project-card {
+    background-color: #ffffff;
+    border-radius: 25px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+    border-radius: 70px;
+    margin: 25px;
+}
+
+.text {
+    color: #94a1a1;
+    font-size: 25px;
+    font-family: "Caveat";
+}
+
+.contact-background {
+    background-color: #31157d;
+    padding: 45px;
+    height: 60vh;
+}
+
+.contact-heading {
+    color: #94a1a1;
+    font-size: 55px;
+    font-family: "Caveat";
+    text-align: left;
+}
+
+.contact-details {
+    font-size: 30px;
+    color: #a082f5;
+}
